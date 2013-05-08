@@ -1,0 +1,22 @@
+{
+  "author": "Björn Ramberg <bjorne@gah.se>",
+  "name": "proximity",
+  "description": "",
+  "version": "0.0.1",
+  "tags": [],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bjorne/proximity"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r should"
+  },
+  "engines": {
+    "node": ">0.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
